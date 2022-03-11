@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 Hi, I’m **[@theabgarg](https://github.com/theabgarg)**
+- 👋 Hi, I’m **[Abhishek](https://github.com/theabgarg)**
 - 👀 I’m interested and looking to collaborate on Web Development projects
 - 📫 How to reach me?
   - **[Linkedin](https://www.linkedin.com/in/theabgarg/)**
