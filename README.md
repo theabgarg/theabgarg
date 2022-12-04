@@ -35,9 +35,10 @@ Here are some ideas to get you started:
 # Experience
 
 - Saas Labs co | Web Developer Intern
-- Freelancer | Full Stack Web Development
+- Freelancer | Software Development
 - MyCheapFare | Full Stack Web Developer
-- Namasys | Full Stack Web Developer
+- Namasys | Software Developer
+- National Informatics Center | Application Developer
 
 # Skills
 
