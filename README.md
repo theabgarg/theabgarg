@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **[Abhishek](https://github.com/theabgarg)**
+- 👋 Hi, I’m **[Abhishek](https://theabgarg.com)**
 - 👀 I’m interested and looking to collaborate on Web Development projects
 - 📫 How to reach me?
   - **[Linkedin](https://www.linkedin.com/in/theabgarg/)**
@@ -8,7 +8,7 @@
 
 - **[Linkedin](https://www.linkedin.com/in/theabgarg/)**
 - **[Github](https://github.com/theabgarg)**
-- **[Portfolio](https://abgarg.com/)**
+- **[Portfolio](https://theabgarg.com/)**
 
 # Skills and Languages
 
