@@ -16,7 +16,7 @@
 <!-- javascript -->
 <img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 <!-- typescript -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />     
+<img align="left" alt="typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />     
 <!-- react -->
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
 <!-- nodejs -->
@@ -26,9 +26,9 @@
 <!-- electronjs -->
 <img align="left" alt="ElectronJS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" />
 <!-- webpack -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />         
+<img align="left" alt="webpack" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />         
 <!-- babel -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />
+<img align="left" alt="babel" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />
 
 </div>
 <br />
