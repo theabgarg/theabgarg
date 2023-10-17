@@ -15,6 +15,8 @@
 <div style="display:flex; gap:1rem">
 <!-- javascript -->
 <img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+<!-- typescript -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />     
 <!-- react -->
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
 <!-- nodejs -->
@@ -23,16 +25,10 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
 <!-- electronjs -->
 <img align="left" alt="ElectronJS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" />
-<!-- php -->
-<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
-<!-- python -->
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<!-- flask -->
-<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" />
-<!-- C++ -->
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
-<!-- java -->
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+<!-- webpack -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />         
+<!-- babel -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />
 
 </div>
 <br />
