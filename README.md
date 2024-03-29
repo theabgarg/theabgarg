@@ -69,10 +69,8 @@
 
 SQLite | ReactJS | Redux | NodeJS | Express | MongoDB | PostgreSQL | Socket.io | Git | REST-Api | Next.js | PHP | MySQL | AWS | Shell
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theabgarg&show_icons=true&locale=en" alt="theabgarg" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theabgarg&show_icons=true&locale=en&theme=dark&hide_border=true&border_radius=20" alt="theabgarg" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theabgarg&" alt="theabgarg" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theabgarg&theme=dark&hide_border=true&border_radius=20" alt="theabgarg" /></p>
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theabgarg&show_icons=true&locale=en&layout=compact" alt="theabgarg" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theabgarg&show_icons=true&locale=en&theme=dark&hide_border=true&border_radius=20&layout=compact" alt="theabgarg" /></p>
