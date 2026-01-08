@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **[Abhishek](https://theabgarg.com)**
-- 👀 I’m interested and looking to collaborate on Web Development projects
+- 👀 I’m interested in building and collaborating on **frontend and backend web systems** using React, Next.js, and Golang
 - 📫 How to reach me?
   - **[Linkedin](https://www.linkedin.com/in/theabgarg/)**
   - **[Instagram](https://www.instagram.com/theabgarg/)**
@@ -19,6 +19,10 @@
 <img align="left" alt="typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />     
 <!-- react -->
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+<!-- nextjs -->
+<img align="left" alt="Next.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
+<!-- golang -->
+<img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
 <!-- nodejs -->
 <img align="left" alt="Nodejs" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
 <!-- mongodb -->
@@ -29,7 +33,6 @@
 <img align="left" alt="webpack" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />         
 <!-- babel -->
 <img align="left" alt="babel" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />
-
 </div>
 <br />
 
@@ -40,12 +43,12 @@
 <img align="left" alt="VSCode" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
 <!-- git -->
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-<!-- heroku -->
-<img align="left" alt="Heroku" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" />
+<!-- docker -->
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+<!-- aws -->
+<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <!-- figma -->
 <img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />
-<!-- google -->
-<img align="left" alt="Google" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" />
 <!-- linux -->
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 
@@ -54,23 +57,21 @@
 
 # Education
 
-- Delhi Technical Campus (DTC), Greater Noida, U.P
-  | B.tech (CSE)
+- Delhi Technical Campus (DTC), Greater Noida, U.P | B.Tech (Computer Science)
 
 # Experience
 
-- Saas Labs co | Web Developer Intern
+- SMC Global Securities Pvt Ltd | Software Engineer  
+- National Informatics Centre | Application Developer  
+- Namasys | Software Developer  
+- MyCheapFare | Full Stack Web Developer  
 - Freelancer | Software Development
-- MyCheapFare | Full Stack Web Developer
-- Namasys | Software Developer
-- National Informatics Center | Application Developer
+- Saas Labs co | Web Developer Intern
 
 # Skills
 
-SQLite | ReactJS | Redux | NodeJS | Express | MongoDB | PostgreSQL | Socket.io | Git | REST-Api | Next.js | PHP | MySQL | AWS | Shell
+React.js | Next.js | Redux | TypeScript | Golang | REST APIs | WebSockets | Node.js | PostgreSQL | MongoDB | Docker | AWS | Git | Linux
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theabgarg&show_icons=true&locale=en&theme=dark&hide_border=true&border_radius=20" alt="theabgarg" /></p>
+<p>&nbsp;<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theabgarg&theme=dark" alt="theabgarg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theabgarg&theme=dark&hide_border=true&border_radius=20" alt="theabgarg" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theabgarg&show_icons=true&locale=en&theme=dark&hide_border=true&border_radius=20&layout=compact" alt="theabgarg" /></p>
